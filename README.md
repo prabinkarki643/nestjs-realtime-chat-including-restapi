@@ -6,6 +6,9 @@ This repo will demonstrate how to create REST API and convert it into Real Time 
 ## Example
 <img src="gitImage/nest_chat_demo.gif" alt="example_gif"/>
 
+## Swagger API
+<img src="gitImage/swagger-api.png" alt="awagger-api"/>
+
 ## Installation
 
 ```bash
